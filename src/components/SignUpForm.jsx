@@ -82,7 +82,7 @@ export function SignUpForm({ inputKey }) {
       <div className="absolute inset-0 -z-10 rounded-lg bg-white/2.5 ring-1 ring-white/15 transition peer-focus:ring-sky-300" />
       
     </div>
-    {outputText}
+    <div className="text-white">{outputText}</div>
   </div>
   )
 }
