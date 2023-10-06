@@ -66,8 +66,8 @@ export function Intro() {
         <span className="text-sky-300">An AI Learning Tool</span>
       </h1>
       <p className="mt-4 text-sm/6 text-gray-300">
-        While you read the Book of Revelation you might come across terms and concepts that you don't understand. Type them in the box below and the AI will help you understand their meaning.
-      </p>
+    While you read the Book of Revelation you might come across terms and concepts that you don&apos;t understand. Type them in the box below and the AI will help you understand their meaning.
+</p>
       <SignUpForm />
       <div className="mt-8 flex flex-wrap justify-center gap-x-1 gap-y-3 sm:gap-x-2 lg:justify-start">
         <IconLink href="https://www.youtube.com/playlist?list=PLHBeS6kh6-vEcrznQAEdRdGypbvTVgWYC" icon={YouTubeIcon} className="flex-none">
